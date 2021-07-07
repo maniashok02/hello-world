@@ -2,3 +2,6 @@
 <<<<<<< HEAD
 <h2> Deploying on a kubernetes using ansible by Mani </h2>
 <h2> Glad to see you here </h2>
+=======
+<h2> Deploying on a kubernetes cluster </h2>
+>>>>>>> 95470c7bf7a29ad1e6bb303684b9ed64599e3e74
